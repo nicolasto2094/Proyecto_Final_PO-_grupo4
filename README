@@ -1,19 +1,19 @@
 
-					UNIVERCIDAD NACIONAL DE COLOMBIA
+					UNIVERSIDAD NACIONAL DE COLOMBIA
 
-Santiago Daza Ramirez
-Julian David Hurtado Gomez
+Santiago Daza Ramírez
+Julián David Hurtado Gómez
 Johan Nicolás Torres Mendoza
 
 _____________________________
 
-					PROYECTO FINAL PROGRAMACION ORIENTADA A OBJETOS GRUPO
+					PROYECTO FINAL PROGRAMACIÓN ORIENTADA A OBJETOS GRUPO 4
 	
 	Este es un programa que simula un sistema masa resorte, el cual fue elaborado con la intención de facilitar la comprenden de dicho tema, de una manera gráfica fácil de comprender y muy sencilla de manejar.   
 
 					PROBLEMATICA
 
-Muchos de los estudiantes de ingeniería de la UN especialmente los de ingeniería mecatronica aprenden y utilizan en barias de sus materias el sistema de masa resorte, por lo cual es frecuente que algunos estudiares presenten dificultades para comprender y  utilizar dicho sistema.
+Muchos de los estudiantes de ingeniería de la UN, especialmente los de ingeniería mecatronica aprenden y utilizan en varias de sus materias el sistema de masa resorte, por lo cual es frecuente que algunos estudiantes presenten dificultades para comprender y  utilizar dicho sistema.
 
 					OBJETIVOS
 
@@ -27,9 +27,9 @@ Objetivos Específicos.
 3. Dejar bases para futuros programadores los cuales podrán mejorarlo y utilizarlo.
 
 
-					MARCO TEORICO
+					MARCO TEÓRICO
 
-El sistema masa resorte está compuesto por una masa puntual, un resorte ideal una colgante y un punto de sujeción del resorte..
+El sistema masa resorte está compuesto por una masa puntual, un resorte ideal colgante y un punto de sujeción del resorte..
 El resorte ideal puede ser un resorte de alto coeficiente de elásticidad y que no se deforma en el rango de estiramiento del resorte.La ecuación de fuerzas del sistema masa resorte es: m a = – k x donde x es la posición (altura) de la masa respecto a la línea de equilibrio de fuerzas del sistema, k es la constante de elasticidad del resorte y m la masa del cuerpo que es sometido a esta oscilación. Esta ecuación puede escribirse como :m d2 x/d t2 = – k x cuya solución es x = Am sin ( w t + ø), donde: Am es la máxima amplitud de la oscilación, w es la velocidad angular que se calcula como ( k /m) 0,5. La constante ø es conocida como ángulo de desface que se utiliza para ajustar la ecuación para que calce con los datos que el observador indica.
 De la ecuación anterior se puede despejar el periodo de oscilación del sistema que es dado por: T = 2 pi (m/k)0,5 A partir de la ecuación de posición se puede determinar la rapidez con que se desplaza el objeto: Vs = valor absoluto de ( dx /dt). Vs = |Am (k/m)0,5 * cos(wt + ø) |. En la condición de equilibrio la fuerza ejercida por la atracción gravitacional sobre la masa colgante es cancelada por la fuerza que ejerce el resorte a ser deformado. A partir de esta posición de equilibrio se puede realizar un estiramiento lento hasta llegar a la amplitud máxima deseada y esta es la que se utilizará como Am de la ecuación de posición del centro de masa de la masa colgante. Si se toma como posición inicial la parte más baja, la constante de desface será – pi/2, pues la posición se encuentra en la parte más baja de la oscilación.
 
@@ -48,7 +48,7 @@ Este programa muestra un sistema masa resorte, el cual simula las ocilaciones qu
 
 La forma mas fácil de ejecutarlo es ejecutar directamente el archivo dependiendo su sistema sea linux o windows, a continuación aparecerá la ventana del programa y de forma automática pedirá los datos necesarios para que el programa comience a trabajar. Si desea ejecutarlo en processing, copie los archivos y abralos todos en processing, copie las imagenes y la tipogrfia en la carpeta del proyecto, istale las librerias y compile.
 
-Cambien es posible abrirlo directamente con processing, solo abra todos los archivos en un mismo proyecto e instale las librerías
+También es posible abrirlo directamente con processing, solo abra todos los archivos en un mismo proyecto e instale las librerías
  
  Durante el programa:
 
