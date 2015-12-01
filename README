@@ -48,6 +48,8 @@ Este programa muestra un sistema masa resorte, el cual simula las ocilaciones qu
 
 La forma mas fácil de ejecutarlo es ejecutar directamente el archivo .exe, a continuación aparecerá la ventana del programa y de forma automática pedirá los datos necesarios para que el programa comience a trabajar. Si desea ejecutarlo en processing, copie los archivos y abralos todos en processing, copie las imagenes y la tipogrfia en la carpeta del proyecto, istale las librerias y compile.
 
+Cambien es posible abrirlo directamente con processing, solo abra todos los archivos en un mismo proyecto e instale las librerías
+ 
  Durante el programa:
 
 1. Oprima la tecla N para ingresar los datos, estos tienen que ser datos de tipo float.
@@ -68,7 +70,7 @@ La forma mas fácil de ejecutarlo es ejecutar directamente el archivo .exe, a co
 				VIENE ADJUNTO EN EL REPOSITORIO.
 
 1. Archivo comprimido Masa_Resorte.windows64.rar el cual contiene el ejecutable.
-2. Cuatro archivos .pde los cuales contienen el código del programa.
+2. Siete archivos .pde los cuales contienen el código del programa.
 3. Tres archivo .vlw los cuales contiene la tipografía usada en el programa incluido en el data.
 4. Cuatro archivos .jpg los cuales contienen las imágenes utilizadas en el mismo incluido en el data.
 5. Dos librerías Java que están en archivos .jar.
