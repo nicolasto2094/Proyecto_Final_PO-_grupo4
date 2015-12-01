@@ -69,8 +69,8 @@ La forma mas fácil de ejecutarlo es ejecutar directamente el archivo .exe, a co
 
 1. Archivo comprimido Masa_Resorte.windows64.rar el cual contiene el ejecutable.
 2. Cuatro archivos .pde los cuales contienen el código del programa.
-3. Tres archivo .vlw los cuales contiene la tipografía usada en el programa.
-4. Cuatro archivos .jpg los cuales contienen las imágenes utilizadas en el mismo.
+3. Tres archivo .vlw los cuales contiene la tipografía usada en el programa incluido en el data.
+4. Cuatro archivos .jpg los cuales contienen las imágenes utilizadas en el mismo incluido en el data.
 5. Dos librerías Java que están en archivos .jar.
 
 					REFERENCIAS
