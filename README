@@ -36,7 +36,7 @@ De la ecuación anterior se puede despejar el periodo de oscilación del sistema
 
 					DEPENDENCIAS DEL PROGRAMA
 
-Este programa fue desarrollado en processing en lenguaje Java, el cual tiene un ejecutable .exe, dicho programa necesita 2 librerías adjuntadas en el repositorio,  las librerías corresponden a fisica.jar y dialogo.jar.
+Este programa fue desarrollado en processing en lenguaje Java, el cual tiene versiones para windows y linux de 32 y 64 bits, dicho programa necesita 2 librerías adjuntadas en el repositorio,  las librerías corresponden a fisica.jar y dialogo.jar.
 
  					
 					DESCRIPCIÓN DEL PROGRAMA
@@ -46,30 +46,30 @@ Este programa muestra un sistema masa resorte, el cual simula las ocilaciones qu
 
 					MODO DE EJECUCIÓN
 
-La forma mas fácil de ejecutarlo es ejecutar directamente el archivo .exe, a continuación aparecerá la ventana del programa y de forma automática pedirá los datos necesarios para que el programa comience a trabajar. Si desea ejecutarlo en processing, copie los archivos y abralos todos en processing, copie las imagenes y la tipogrfia en la carpeta del proyecto, istale las librerias y compile.
+La forma mas fácil de ejecutarlo es ejecutar directamente el archivo dependiendo su sistema sea linux o windows, a continuación aparecerá la ventana del programa y de forma automática pedirá los datos necesarios para que el programa comience a trabajar. Si desea ejecutarlo en processing, copie los archivos y abralos todos en processing, copie las imagenes y la tipogrfia en la carpeta del proyecto, istale las librerias y compile.
 
 Cambien es posible abrirlo directamente con processing, solo abra todos los archivos en un mismo proyecto e instale las librerías
  
  Durante el programa:
 
-1. Oprima la tecla N para ingresar los datos, estos tienen que ser datos de tipo float.
+1. Oprima la tecla "N-n" para ingresar los datos, estos tienen que ser datos de tipo float.
 2. Con el cursor mueva la masa del sistema y suelte, a continuación vera como se desarrolla el sistema según los datos suministrados.
 3. Oprima el recuadro de la esquina inferior y continuación el programa pedirá cuatro nuevos y acontinuacion mostrara el circuito RLC y haciendo clic 	 en el display podrá ver el comportamiento del sistema.
 4. Si esta en la vista del circuito haciendo clic en la misma esquina regresara a la interfaz del programa.
-5. Con la tecla "N" usted puede cambiar los datos iniciales del programa.
+5. Con la tecla "N-n" usted puede cambiar los datos iniciales del programa.
 6. ESC para salir del programa.
  
  Precauciones
 
 1. Solo ingrese datos de tipo float.
 2. No se permiten datos de tipo Char.
-3. Para nuevos datos utilice la letra "N" mayúscula.
+3. Para nuevos datos utilice la letra "N-n" mayúscula.
 4. En caso de errores reinicie el programa.
 
 
 				VIENE ADJUNTO EN EL REPOSITORIO.
 
-1. Archivo comprimido Masa_Resorte.windows64.rar el cual contiene el ejecutable.
+1. Archivo comprimido Masa_Resorte.rar el cual contiene el ejecutables de windoes y linux.
 2. Siete archivos .pde los cuales contienen el código del programa.
 3. Tres archivo .vlw los cuales contiene la tipografía usada en el programa incluido en el data.
 4. Cuatro archivos .jpg los cuales contienen las imágenes utilizadas en el mismo incluido en el data.
